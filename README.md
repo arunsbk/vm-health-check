@@ -19,5 +19,7 @@ To run the health check script, use the following command:
 ```bash
 ./health_check.sh
 ```
+To get the details pass argument "explain" 
+./health_check.sh explain
 
 Make sure to run the script with sufficient permissions if required.
